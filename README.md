@@ -1,4 +1,4 @@
-![hey, I’m JS](jsbanner.png)
+<img src="jsbanner.png" alt="JS banner" width="480">
 
 I’m a student who makes things for fun. I build with AI and know my way around the basics of TypeScript, Python, Luau, and C#.
 
@@ -13,3 +13,4 @@ A browser extension that reveals your SOMtoday or Magister grades one at a time.
 [Visit the website ↗](https://js664.github.io/CijferReveal/)
 
 [Find me on X ↗](https://x.com/js664_)
+
