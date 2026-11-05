@@ -24,7 +24,6 @@ An open-source Windows soundboard with a phone remote.
 
 I know my way around the basics of these languages and use AI to help bring ideas to life.
 
-[![TypeScript, Python and C#](https://skillicons.dev/icons?i=ts,python,cs)](https://skillicons.dev)
-![Luau](https://img.shields.io/badge/Luau-00A2FF?style=for-the-badge&logo=luau&logoColor=white)
+[![TypeScript, Python, C# and Lua](https://skillicons.dev/icons?i=ts,python,cs,lua)](https://skillicons.dev)
 
 ✦ &nbsp; [Find me on X](https://x.com/js664_) &nbsp; · &nbsp; [Explore my repositories](https://github.com/js664?tab=repositories)
