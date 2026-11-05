@@ -36,15 +36,6 @@ Hey, I’m **JS** — a student making apps, tools and experiments for fun. I bu
     </td>
     <td><img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" /></td>
   </tr>
-  <tr>
-    <td align="center">🔊</td>
-    <td>
-      <strong><a href="https://github.com/js664/SimplySound">SimplySound</a></strong><br />
-      An open-source Windows soundboard with a phone remote.<br />
-      <sub><a href="https://github.com/js664/SimplySound">EXPLORE THE PROJECT ↗</a></sub>
-    </td>
-    <td><img src="https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=csharp&logoColor=white" alt="C sharp" /></td>
-  </tr>
 </table>
 
 <br />
