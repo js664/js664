@@ -12,7 +12,7 @@ hey, i’m js ✦ a student making apps, tools and experiments for fun.<br />i b
 <img src="assets/kartlink.png" width="22" alt="" /> &nbsp; **[kartlink p2p](https://github.com/js664/KartLink-P2P)** · play with friends through eglantine & playit  
 &nbsp; &nbsp; &nbsp; [download ↗](https://github.com/js664/KartLink-P2P/releases/tag/v1.0.0) · [announcement ↗](https://x.com/js664_/status/2117953816008052969)
 
-<img src="assets/cijfer.png" width="22" alt="" /> &nbsp; **[cijferreveal](https://github.com/js664/CijferReveal)** · reveal your somtoday or magister grades one at a time  
+<img src="assets/cijfer.png" width="22" alt="" /> &nbsp; **[cijferreveal](https://github.com/js664/CijferReveal)** · reveal your somtoday or magister grades like its a Counter-Strike case opening
 &nbsp; &nbsp; &nbsp; [website ↗](https://js664.github.io/CijferReveal/)
 
 ### things i’m learning ✦
